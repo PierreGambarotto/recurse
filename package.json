@@ -1,0 +1,19 @@
+{
+  "name": "recurse",
+  "version": "1.0.0",
+  "description": "exos de manip prog func et recurse",
+  "main": "recurse.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [
+    "toto",
+    "titi"
+  ],
+  "author": "Pierre Gambarotto <pierre.gambarotto@enseeiht.fr>",
+  "license": "GPL-3.0",
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^3.2.0"
+  }
+}
